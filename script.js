@@ -3,7 +3,7 @@ var pause = document.querySelector("#music-js");
 var pauseBtn = document.querySelector("#pause-btn");
 let playIcon = document.querySelector("#play-icon");
 let pauseIcon = document.querySelector("#pause-icon");
-var song1 = new Audio('NorxForever.mp3');
+var song1 = new Audio('Faint.mp3');
 
 
 var musicPlaying = false;
